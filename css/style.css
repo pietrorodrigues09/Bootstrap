@@ -2,8 +2,17 @@
     width: 8%;
 }
 .fundomenu{
-    background-color: darkslategray;
+    background-color: darkblue;
 }
 .minhafonte{
     font-size: 1.5rem;
+}
+.col{
+    margin-top: 30px;
+    padding: 30px;
+    border: 2px solid black;
+}
+
+.titulo {
+    text-align: center;
 }
