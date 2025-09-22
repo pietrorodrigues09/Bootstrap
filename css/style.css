@@ -16,3 +16,12 @@
 .titulo {
     text-align: center;
 }
+
+.card{
+    margin: auto;
+    margin-top: 30px;
+}
+
+.container-cards {
+    margin-top: 90px;
+}
